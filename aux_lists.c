@@ -99,7 +99,7 @@ void free_line_list(line_list **head)
 	line_list *curr;
 
 	if (head != NULL)
-        {
+	{
 		curr = *head;
 		while ((temp = curr) != NULL)
 		{
