@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
  * error_env - error message for env in get_env.
@@ -66,5 +66,4 @@ char *error_path_126(data_shell *datash)
 	_strcat(error, "\0");
 	free(ver_str);
 	return (error);
-}
 

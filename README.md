@@ -1,2 +1,0 @@
-README
-simple shell project
